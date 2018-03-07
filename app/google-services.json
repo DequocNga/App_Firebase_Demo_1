@@ -1,0 +1,174 @@
+{
+  "project_info": {
+    "project_number": "68647458037",
+    "firebase_url": "https://appchatfirebase1.firebaseio.com",
+    "project_id": "appchatfirebase1",
+    "storage_bucket": "appchatfirebase1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68647458037:android:4d2edbb530749e82",
+        "android_client_info": {
+          "package_name": "com.russia.app_chat_firebase_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68647458037-7tn8u7i943sru4nhc2gsu8qiam9ldrpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIRkjE_BnrrVHTWYewAHBduPksyrqulEw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68647458037:android:4f372158985e4694",
+        "android_client_info": {
+          "package_name": "app_chat_firebase_1.russia.com.app_chat_firebase_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68647458037-jr0em6ohvkivathceq3i5a955ffmrdgl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app_chat_firebase_1.russia.com.app_chat_firebase_1",
+            "certificate_hash": "0fbaae7e9200642ece0374b57aba4a23b7650684"
+          }
+        },
+        {
+          "client_id": "68647458037-7tn8u7i943sru4nhc2gsu8qiam9ldrpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIRkjE_BnrrVHTWYewAHBduPksyrqulEw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68647458037-7tn8u7i943sru4nhc2gsu8qiam9ldrpj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68647458037:android:22883158ac882ec3",
+        "android_client_info": {
+          "package_name": "app_chat_firebase_1.russia.com.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68647458037-jmgj8ope2s3avqrg7obf1ttbp192lsbo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app_chat_firebase_1.russia.com.myapplication",
+            "certificate_hash": "0fbaae7e9200642ece0374b57aba4a23b7650684"
+          }
+        },
+        {
+          "client_id": "68647458037-7tn8u7i943sru4nhc2gsu8qiam9ldrpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIRkjE_BnrrVHTWYewAHBduPksyrqulEw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68647458037-7tn8u7i943sru4nhc2gsu8qiam9ldrpj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68647458037:android:427f128b77211268",
+        "android_client_info": {
+          "package_name": "russia.com.app_firebase_demo_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68647458037-o8htkf37ec36ea74bfk02ah41fmrgb0l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "russia.com.app_firebase_demo_1",
+            "certificate_hash": "0fbaae7e9200642ece0374b57aba4a23b7650684"
+          }
+        },
+        {
+          "client_id": "68647458037-7tn8u7i943sru4nhc2gsu8qiam9ldrpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIRkjE_BnrrVHTWYewAHBduPksyrqulEw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68647458037-7tn8u7i943sru4nhc2gsu8qiam9ldrpj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

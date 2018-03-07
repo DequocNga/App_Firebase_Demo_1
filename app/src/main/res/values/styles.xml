@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/login_button_successfully</item>
+        <item name="colorPrimaryDark">@color/bg_swipe_group_item_pinned</item>
+        <item name="colorAccent">@color/login_button</item>
+    </style>
+
+</resources>
